@@ -1,2 +1,2 @@
 # financial-planning-app
-simple financial planning calculator
+simple financial planning calculator in java
